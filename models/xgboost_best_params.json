@@ -1,0 +1,1 @@
+{"booster": "dart", "lambda": 1.2246330866896723e-07, "alpha": 8.340698586854568e-06, "subsample": 0.651775221528867, "colsample_bytree": 0.43749952717182383, "max_depth": 5, "learning_rate": 0.05486520178251461, "n_estimators": 314}
